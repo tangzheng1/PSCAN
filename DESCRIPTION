@@ -1,0 +1,10 @@
+Package: PSCAN
+Type: Package
+Title: Protein-structure-guided scan tests for detecting gene-level associations and signal variants
+Version: 1.0
+Date: 2020-04-06
+Author: Zheng-Zheng Tang
+Maintainer: Zheng-Zheng Tang <tang@biostat.wisc.edu>
+Description: Protein-structure-guided scan (PSCAN) tests for evaluating the gene-level association with complex traits and detecting signal clusters in protein space.
+License: GPL (>=2)
+Depends: R (>= 3.1.1), MASS, SKAT, igraph, rgl

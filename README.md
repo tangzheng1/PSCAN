@@ -31,9 +31,7 @@ install_github("tangzheng1/PSCAN")
 
 A vignette with examples illustrating the usage of **PSCAN** is available at: https://github.com/tangzheng1/PSCAN/blob/master/vignette/vignette_v1.0.pdf
 
-### Author
+### Contact
 
-**Zheng-Zheng Tang** (UW-Madison)
-
-Bug report, comments or questions please send to tang@biostat.wisc.edu.
+**Zheng-Zheng Tang** (UW-Madison) tang@biostat.wisc.edu.
 

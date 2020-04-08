@@ -22,15 +22,10 @@ by protein structures improve complex disease gene discovery and signal variant 
 **PSCAN** can be installed from github directly as follows:
 
 ```r
-source('https://bioconductor.org/biocLite.R')
-source('https://install-github.me/r-lib/devtools')
-
-devtools::install_github("tangzheng1/PSCAN")
+install.packages("devtools")
+library(devtools)
+install_github("tangzheng1/PSCAN")
 ```
-
-**PSCAN** relies on the following R packages: **MASS**, **SKAT**, **igraph**, **rgl** that are hosted on CRAN. 
-They are installed automatically by the above command. 
-
 
 ### Tutorial
 

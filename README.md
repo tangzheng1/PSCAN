@@ -29,7 +29,7 @@ install_github("tangzheng1/PSCAN")
 
 ### Tutorial
 
-A vignette with examples illustrating the usage of **PSCAN** is distributed together with the package, also available at: https://github.com/tangzheng1/PSCAN/blob/master/vignette/vignette_v1.0.pdf
+A vignette with examples illustrating the usage of **PSCAN** is available at: https://github.com/tangzheng1/PSCAN/blob/master/vignette/vignette_v1.0.pdf
 
 ### Author
 

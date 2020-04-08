@@ -1,5 +1,0 @@
-exportPattern("^[[:alpha:]]+")
-import(MASS)
-import(SKAT)
-import(igraph)
-import(rgl)

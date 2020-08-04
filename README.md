@@ -8,7 +8,7 @@ functional variants to cluster in 3D protein space. PSCAN methods are built upon
 scan statistics, with scan windows adaptively defined to accommodate diverse topologies of variant positions
 in protein space. PSCAN performs fast gene-level association tests by combining SNP-set-based testing
 p-values across windows using the Cauchy method. In addition, PSCAN implements an efficient search
-algorithm for the detection of multiple signal regions in protein space. The details are described in Tang et
+algorithm for the detection of multiple signal regions in protein space. The method details are described in Tang et
 al. (2020).
 
 ### References
